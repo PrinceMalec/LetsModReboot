@@ -1,3 +1,5 @@
+package com.malec.letsmodreboot;
+
 import com.malec.letsmodreboot.handler.ConfigurationHandler;
 import com.malec.letsmodreboot.init.ModBlocks;
 import com.malec.letsmodreboot.init.ModItems;
